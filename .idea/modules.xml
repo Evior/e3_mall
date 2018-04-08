@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comgithubpagehelper/comgithubpagehelper.iml" filepath="$PROJECT_DIR$/comgithubpagehelper/comgithubpagehelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_car/e3_car.iml" filepath="$PROJECT_DIR$/e3_car/e3_car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_car/e3_car_interface/e3_car_interface.iml" filepath="$PROJECT_DIR$/e3_car/e3_car_interface/e3_car_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_car/e3_car_service/e3_car_service.iml" filepath="$PROJECT_DIR$/e3_car/e3_car_service/e3_car_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_car_web/e3_car_web.iml" filepath="$PROJECT_DIR$/e3_car_web/e3_car_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_comment/e3_comment.iml" filepath="$PROJECT_DIR$/e3_comment/e3_comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_content/e3_content.iml" filepath="$PROJECT_DIR$/e3_content/e3_content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_content/e3_content_interface/e3_content_interface.iml" filepath="$PROJECT_DIR$/e3_content/e3_content_interface/e3_content_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_content/e3_content_service/e3_content_service.iml" filepath="$PROJECT_DIR$/e3_content/e3_content_service/e3_content_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_item_web/e3_item_web.iml" filepath="$PROJECT_DIR$/e3_item_web/e3_item_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager/e3_manager.iml" filepath="$PROJECT_DIR$/e3_manager/e3_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager/e3_manager_dao/e3_manager_dao.iml" filepath="$PROJECT_DIR$/e3_manager/e3_manager_dao/e3_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager/e3_manager_interface/e3_manager_interface.iml" filepath="$PROJECT_DIR$/e3_manager/e3_manager_interface/e3_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager/e3_manager_pojo/e3_manager_pojo.iml" filepath="$PROJECT_DIR$/e3_manager/e3_manager_pojo/e3_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager/e3_manager_service/e3_manager_service.iml" filepath="$PROJECT_DIR$/e3_manager/e3_manager_service/e3_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_order/e3_order.iml" filepath="$PROJECT_DIR$/e3_order/e3_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_order/e3_order_interface/e3_order_interface.iml" filepath="$PROJECT_DIR$/e3_order/e3_order_interface/e3_order_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_order/e3_order_service/e3_order_service.iml" filepath="$PROJECT_DIR$/e3_order/e3_order_service/e3_order_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_order_web/e3_order_web.iml" filepath="$PROJECT_DIR$/e3_order_web/e3_order_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_parent.iml" filepath="$PROJECT_DIR$/e3_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_portable_web/e3_portable_web.iml" filepath="$PROJECT_DIR$/e3_portable_web/e3_portable_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_search/e3_search.iml" filepath="$PROJECT_DIR$/e3_search/e3_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_search/e3_search_interface/e3_search_interface.iml" filepath="$PROJECT_DIR$/e3_search/e3_search_interface/e3_search_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_search/e3_search_service/e3_search_service.iml" filepath="$PROJECT_DIR$/e3_search/e3_search_service/e3_search_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_search_web/e3_search_web.iml" filepath="$PROJECT_DIR$/e3_search_web/e3_search_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_sso/e3_sso.iml" filepath="$PROJECT_DIR$/e3_sso/e3_sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_sso/e3_sso_interface/e3_sso_interface.iml" filepath="$PROJECT_DIR$/e3_sso/e3_sso_interface/e3_sso_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_sso/e3_sso_service/e3_sso_service.iml" filepath="$PROJECT_DIR$/e3_sso/e3_sso_service/e3_sso_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_sso_web/e3_sso_web.iml" filepath="$PROJECT_DIR$/e3_sso_web/e3_sso_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_web2/e3_web2.iml" filepath="$PROJECT_DIR$/e3_web2/e3_web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastdfs_client/fastdfs_client.iml" filepath="$PROJECT_DIR$/fastdfs_client/fastdfs_client.iml" />
+    </modules>
+  </component>
+</project>

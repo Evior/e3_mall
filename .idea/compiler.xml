@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comgithubpagehelper" />
+        <module name="e3_car_interface" />
+        <module name="e3_car_service" />
+        <module name="e3_car_web" />
+        <module name="e3_comment" />
+        <module name="e3_content_interface" />
+        <module name="e3_content_service" />
+        <module name="e3_item_web" />
+        <module name="e3_manager_dao" />
+        <module name="e3_manager_interface" />
+        <module name="e3_manager_pojo" />
+        <module name="e3_manager_service" />
+        <module name="e3_order_interface" />
+        <module name="e3_order_service" />
+        <module name="e3_order_web" />
+        <module name="e3_portable_web" />
+        <module name="e3_search_interface" />
+        <module name="e3_search_service" />
+        <module name="e3_search_web" />
+        <module name="e3_sso_interface" />
+        <module name="e3_sso_service" />
+        <module name="e3_sso_web" />
+        <module name="e3_web2" />
+        <module name="fastdfs_client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comgithubpagehelper" target="1.7" />
+      <module name="e3_car" target="1.7" />
+      <module name="e3_car_interface" target="1.7" />
+      <module name="e3_car_service" target="1.7" />
+      <module name="e3_car_web" target="1.7" />
+      <module name="e3_comment" target="1.7" />
+      <module name="e3_content" target="1.7" />
+      <module name="e3_content_interface" target="1.7" />
+      <module name="e3_content_service" target="1.7" />
+      <module name="e3_item_web" target="1.7" />
+      <module name="e3_manager" target="1.7" />
+      <module name="e3_manager_dao" target="1.7" />
+      <module name="e3_manager_interface" target="1.7" />
+      <module name="e3_manager_pojo" target="1.7" />
+      <module name="e3_manager_service" target="1.7" />
+      <module name="e3_manager_web" target="1.7" />
+      <module name="e3_order" target="1.7" />
+      <module name="e3_order_interface" target="1.7" />
+      <module name="e3_order_service" target="1.7" />
+      <module name="e3_order_web" target="1.7" />
+      <module name="e3_parent" target="1.7" />
+      <module name="e3_portable_web" target="1.7" />
+      <module name="e3_search" target="1.7" />
+      <module name="e3_search_interface" target="1.7" />
+      <module name="e3_search_service" target="1.7" />
+      <module name="e3_search_web" target="1.7" />
+      <module name="e3_sso" target="1.7" />
+      <module name="e3_sso_interface" target="1.7" />
+      <module name="e3_sso_service" target="1.7" />
+      <module name="e3_sso_web" target="1.7" />
+      <module name="e3_web2" target="1.7" />
+      <module name="fastdfs_client" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

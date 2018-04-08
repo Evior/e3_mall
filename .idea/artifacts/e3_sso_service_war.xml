@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="e3_sso_service:war">
+    <output-path>$PROJECT_DIR$/e3_sso/e3_sso_service/target</output-path>
+    <root id="archive" name="e3_sso_service.war">
+      <element id="artifact" artifact-name="e3_sso_service:war exploded" />
+    </root>
+  </artifact>
+</component>

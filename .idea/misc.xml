@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/e3_car/e3_car_service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_car_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_content/e3_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_item_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_manager/e3_manager_service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_manager/e3_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_order/e3_order_service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_order_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_portable_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_search/e3_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_sso/e3_sso_service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_sso_web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3_web2" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/e3_manager/e3_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3_search/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
